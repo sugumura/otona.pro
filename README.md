@@ -7,10 +7,6 @@ MacOSX
 ```
 $ brew udpate & brew install hugo
 
-# install theme
-$ cd theme
-$ git clone https://github.com/keichi/vienna
-
 $ cd ..
 $ hugo server -w -D
 ```
