@@ -1,5 +1,5 @@
 languageCode = "ja"
-title = "オトナのプログラミング勉強会ブログ"
+title = "オトナのプログラミング勉強会"
 baseurl = "http://otona.pro/"
 theme = "vienna"
 
@@ -7,4 +7,4 @@ theme = "vienna"
 	facebook = "オトナのプログラミング勉強会-1343421652358699"
 	contact = "mailto:info@otona.pro"
 	subtitle = "熊本のプログラミング勉強会"
-	bio = "熊本で月2回開催されるオトナのプログラミングの勉強会ブログです"
+	bio = "熊本で月2回開催されるオトナのプログラミングの勉強会の講座録です"
