@@ -1,0 +1,12 @@
+box: debian
+build:
+  steps:
+    - arjen/hugo-build:
+        version: "0.18.1"
+deploy:
+  steps:
+    - s3sync:
+        key-id: $ACCESS_KEY
+        key-secret: $SECRET_ACCESS_KEY
+        bucket-url: $BUCKET
+        source-dir: $SOURCE
