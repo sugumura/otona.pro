@@ -1,0 +1,7 @@
+languageCode = "ja"
+title = "オトナのプログラミング勉強会ブログ"
+baseurl = "http://otona.pro/"
+theme = "vienna"
+
+[params]
+	facebook = "オトナのプログラミング勉強会-1343421652358699"
