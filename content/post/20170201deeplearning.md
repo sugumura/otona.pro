@@ -11,4 +11,4 @@ Description = ""
 https://otona.connpass.com/event/49011/
 
 ## スライド
-{{< speakerdeck di-1hui-zerokarazuo-ruotonafalsedeep-learning >}}
+{{< speakerdeck 7b08894ef0e549d5b8abcc8f8061c77d >}}
