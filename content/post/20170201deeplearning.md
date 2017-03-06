@@ -11,4 +11,4 @@ Description = ""
 https://otona.connpass.com/event/49011/
 
 ## スライド
-{{< speakerdeck 7b08894ef0e549d5b8abcc8f8061c77d >}}
+{{< speakerdeck 6e31a120f8cd44fa8ce89b8ce00c4aa6 >}}
