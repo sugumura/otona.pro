@@ -6,3 +6,12 @@ draft = false
 Description = ""
 
 +++
+
+## イベント詳細
+https://otona.connpass.com/event/51121/
+
+## 動画
+{{< youtube bnvAxexpAJw >}}
+
+## スライド
+{{< speakerdeck di-2hui-zerokarazuo-ruotonafalsedeep-learning >}}
