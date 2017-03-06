@@ -14,4 +14,4 @@ https://otona.connpass.com/event/51121/
 {{< youtube bnvAxexpAJw >}}
 
 ## スライド
-{{< speakerdeck di-2hui-zerokarazuo-ruotonafalsedeep-learning >}}
+{{< speakerdeck 7b08894ef0e549d5b8abcc8f8061c77d >}}
