@@ -12,4 +12,4 @@ Description = ""
 https://otona.connpass.com/event/49011/
 
 ## スライド
-{{< slideshare key/1AmRDPBRrNwwNE >}}
+{{< slideshare 1AmRDPBRrNwwNE >}}
