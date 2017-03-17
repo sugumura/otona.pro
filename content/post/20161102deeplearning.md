@@ -6,3 +6,10 @@ draft = false
 Description = ""
 
 +++
+
+
+## イベント詳細
+https://otona.connpass.com/event/47512/
+
+## スライド
+{{< slideshare key/1AmRDPBRrNwwNE >}}
