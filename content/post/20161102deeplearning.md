@@ -9,7 +9,7 @@ Description = ""
 
 
 ## イベント詳細
-https://otona.connpass.com/event/49011/
+[https://otona.connpass.com/event/49011/](https://otona.connpass.com/event/49011/)
 
 ## スライド
 {{< slideshare 1AmRDPBRrNwwNE >}}
