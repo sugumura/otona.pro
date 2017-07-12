@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.18.1"
+        version: "0.25.1"
 deploy:
   steps:
     - s3sync:
