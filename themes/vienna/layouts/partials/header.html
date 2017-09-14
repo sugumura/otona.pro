@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 <head prefix="og: http://ogp.me/ns#">
+  {{ with .Site.Params.ga_api_key }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106489461-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)};
+    gtag('js', new Date());
+
+    gtag('config', '{{ . }}');
+  </script>  
+  {{ end }}
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
   <meta property="og:title" content="{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}" />
