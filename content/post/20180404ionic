@@ -1,0 +1,22 @@
++++
+date = "2018-04-04T19:00:00+09:00"
+title = "オトナのIonic入門@未来会議室"
+Tags = []
+draft = false
+Description = ""
+
++++
+
+## イベント詳細
+
+[https://otona.connpass.com/event/83010/](https://otona.connpass.com/event/83010/)
+
+## 動画
+
+{{< youtube Jh2ieElL3w8 >}}
+
+## スライド
+
+<iframe src="https://sugumura.github.io/presentation-by-reveal.js/presentation/ionic-tutorial-20180404/" onload="this.focus();" width="100%" height="420px"></iframe>
+
+[https://sugumura.github.io/presentation-by-reveal.js/presentation/ionic-tutorial-20180404/](https://sugumura.github.io/presentation-by-reveal.js/presentation/ionic-tutorial-20180404/)
