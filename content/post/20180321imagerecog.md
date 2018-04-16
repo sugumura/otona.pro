@@ -14,3 +14,7 @@ Description = ""
 ## 動画
 
 {{< youtube rD3xCMaktjY >}}
+
+## スライド
+
+{{< slideshare GF9rSiXGMADqv >}}
