@@ -1,6 +1,6 @@
 languageCode = "ja"
 title = "オトナのプログラミング勉強会"
-baseurl = "http://otona.pro/"
+baseurl = "https://otona.pro/"
 theme = "vienna"
 
 [params]
