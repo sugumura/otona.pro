@@ -1,7 +1,9 @@
-# はじめに
+# otona.pro
+
+## はじめに
 オトナのプログラミング勉強会のブログです。
 
-# インストール
+## インストール
 
 MacOSX
 ```
@@ -11,7 +13,7 @@ $ cd ..
 $ hugo server -w -D
 ```
 
-# 記事作成
+## 記事作成
 
 ```
 $ hugo new post/hello-world.md
